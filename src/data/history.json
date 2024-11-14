@@ -1,0 +1,18 @@
+[
+  {
+    "role": "FrontEnd Engineer",
+    "organisation": "CleverTap",
+    "startDate": "Jun, 2023",
+    "endDate": "Sep, 2024",
+    "experiences": ["Worked on Gmail Annotations", "Created metrics for Unique Clicks,Views,Count and COR ratio"],
+    "imageSrc": "history/cleverTap.png"
+  },
+  {
+    "role": "FrontEnd Engineer Intern",
+    "organisation": "CleverTap",
+    "startDate": "Jul, 2022",
+    "endDate": "May, 2023",
+    "experiences": ["ImplementedtheconversionofHTMLtoAMP", "Strengthened web security by implementing Sub-Resource Integrity"],
+    "imageSrc": "history/cleverTap.png"
+  }
+]
